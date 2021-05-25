@@ -1,5 +1,5 @@
 # Terraform
-This code creates the following resources on AWS using Terraform:
+This code creates the following resources on AWS using Terraform:\
 VPC\
 An Internet Gateway\
 Custom Route Table\
